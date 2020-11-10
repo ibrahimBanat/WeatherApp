@@ -11,3 +11,6 @@ The icons we're going to use for our web application are created by the Graphic 
 
 ## Deployment 
 You can view the project [here](https://ibrahimbanat.github.io/WeatherApp/)
+
+## View
+<img src="/icons/Screenshot (45).png" alt="My cool logo"/>
